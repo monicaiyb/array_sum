@@ -7,6 +7,6 @@ By Monica Iyabo
 - An installation of visual studio 2019 or higher
 - .Net framework 4.5
 
-## How to run the program
-Open the app in visual studio
-Go 
+## How to run the progra
+In visual studio build the program
+Publish as an executable and distribute
